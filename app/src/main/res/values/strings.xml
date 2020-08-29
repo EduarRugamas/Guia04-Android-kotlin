@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contact App</string>
+
+    <string name="person1">Eduardo</string>
+    <string name="person2">kevin</string>
+    <string name="person3">Estefany</string>
+    <string name="person4">Laura</string>
+    <string name="person5">Marco</string>
+    <string name="person6">Daniela</string>
+
+    <string name="titulo">Contactos</string>
+    <string name="listaDetalles">Lista de contactos</string>
+    <string name="btnCall">llamar</string>
+    <string name="btnEmail">Enviar correo</string>
+</resources>
